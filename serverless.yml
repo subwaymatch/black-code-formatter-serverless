@@ -1,4 +1,4 @@
-service: black-api-stable
+service: black-code-formatter-api
 
 provider:
   name: aws
