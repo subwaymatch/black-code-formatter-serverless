@@ -1,4 +1,5 @@
 service: black-code-formatter-api
+app: black-code-formatter-api
 
 provider:
   name: aws
